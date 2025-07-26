@@ -12,8 +12,8 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-remote_theme: "mmistakes/minimal-mistakes@4.27.2"
-minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+remote_theme             : "mmistakes/minimal-mistakes@4.27.2"
+minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -22,7 +22,7 @@ title                    : "Anna Lindeberg"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Anna Lindeberg"
-description              : "Personal website"
+description              : "Personal website of Anna Lindeberg"
 url                      : "https://annalindeberg.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "annalindeberg/annalindeberg.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -123,7 +123,7 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
-    - label: "Website"
+    - label: "University homepage"
       icon: "fas fa-fw fa-link"
       url: "https://www.su.se/profiles/anli2726-1.513404"
     - label: "Twitter"
