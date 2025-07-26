@@ -329,3 +329,11 @@ defaults:
       comments: # true
       share: true
       related: true
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: default
+      author_profile: true
+      sidebar:
+        nav: "pages"
