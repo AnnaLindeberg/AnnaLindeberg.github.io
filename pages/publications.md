@@ -5,6 +5,10 @@ sidebar:
   nav: "pages"
 ---
 
-# Publications
+Let's try a citation {% cite HL:24 %}
 
-list soon
+
+References
+----------
+
+{% bibliography --cited %}
