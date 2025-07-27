@@ -346,5 +346,7 @@ defaults:
 
 
 # jekyll scholar
-scolar:
-  bibliography: lindeberg.bib
+scholar:
+  sort_by:  'year'
+  order:    'descending'
+  style:    'vancouver'

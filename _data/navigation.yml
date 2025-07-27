@@ -1,10 +1,10 @@
 pages:
+  - title: "CV"
+    url: /pages/CV/
   - title: "Publications"
     url: /pages/publications/
   - title: "Teaching"
     url: /pages/teaching/
-  - title: "CV"
-    url: /pages/CV/
   - title: "Other things"
     url: /pages/other/
 
