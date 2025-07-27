@@ -4,3 +4,4 @@ source "https://rubygems.org"
 gem 'jekyll-include-cache', group: :jekyll_plugins
 gem 'jekyll-scholar', group: :jekyll_plugins
 gem 'jekyll-github-metadata', group: :jekyll_plugins
+gem "minimal-mistakes-jekyll"
