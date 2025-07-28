@@ -351,3 +351,5 @@ scholar:
   order:    'descending'
   style:    'vancouver'
   bibliography_template: bib
+  # replace_strings: true
+  # query: "@*"

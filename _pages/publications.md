@@ -5,11 +5,11 @@
 
 ## Published in peer-reviewed journal
 
-{% bibliography --file published.bib %}
+{% bibliography --file published.bib -q @*[status!=submitted] %}
 
 ## Submitted
 
-{% bibliography --file submitted.bib %}
+{% bibliography --file published.bib -q @*[status!=accepted] %}
 
 ## Others
 

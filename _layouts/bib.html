@@ -1,4 +1,14 @@
 ---
 ---
-<style>ol.bibliography li { list-style: none }</style>
-{{ reference }}
+<p>
+  {{ reference | regex_replace_once: '\d+?\.\s', '' }}
+  {% if entry.doi %}
+    <a href="https://doi.org/{{ entry.doi }}">DOI:{{entry.doi}}</a>
+  {% endif %}
+  {% if entry.archiveprefix == 'arXiv'%}
+    <a href="https://arxiv.org/abs/{{ entry.eprint }}">arXiv:{{ entry.eprint }}</a>
+  {% endif %}
+  {% if entry.note %}
+    <span class="note">{{ entry.note }}</span>
+  {% endif %}
+</p>
