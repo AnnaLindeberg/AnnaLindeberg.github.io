@@ -63,7 +63,7 @@ thesis in Mathematics at Stockholm University
 ([[link]](https://www.su.se/matematiska-institutionen/nyheter/mittag-leffler-priset-l%C3%A4s%C3%A5ret-2023-24-1.770341)
 to announcement in Swedish).
 
-**May 2025** Travel grant (8000 SEK) from The Essén scholarship
+**May 2025** Recieved travel grant (8000 SEK) from The Essén scholarship
 
 
 ## Participation in conferences etc.
@@ -79,10 +79,10 @@ partial funding from the organizers (5000 CZD).
 ## Other presentations
 
  
-**April 2025** Graph theory seminar at University Leipzig (invited).\
+**April 2025** Graph theory seminar at University Leipzig.\
 Title: *LCA-based simplifications of DAGs and networks*.
 
-**April 2025** Combinatorics seminar at KTH (invited).\
+**April 2025** Combinatorics seminar at KTH.\
 Title: *Encoding Graphs with Labeled Rooted Networks*.
 
 **December 2024** PhD seminar at Stockholm University.\
