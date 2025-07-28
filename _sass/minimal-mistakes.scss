@@ -1,3 +1,18 @@
+.bibentry-flex {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+.bibentry {
+  margin: 0;
+}
+
+.bibentry-right {
+  margin-left: 0.2em;
+  white-space: nowrap;
+}
+
 /* Copyright comment */
 @import "minimal-mistakes/copyright";
 

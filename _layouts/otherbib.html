@@ -1,18 +1,23 @@
 ---
 ---
-<p>
-  {{ reference | regex_replace_once: '\d+?\.\s', '' }}
-  {% if entry.doi %}
-    <a href="https://doi.org/{{ entry.doi }}">DOI:{{entry.doi}}</a>
-  {% endif %}
-  {% if entry.archiveprefix == 'arXiv'%}
-    <a href="https://arxiv.org/abs/{{ entry.eprint }}">arXiv:{{ entry.eprint }}</a>
-  {% endif %}
-  {% if entry.note %}
-    <span class="note">{{ entry.note }}</span>
-  {% endif %}
-  {% if link %}
-    <span class="note">[<a href="{{link}}">Download</a>]</span>
-  {% endif %}
-  <!-- [<a href="{{links.zip}}">Download</a>] -->
-</p>
+<div class="bibentry-flex">
+  <p class="bibentry">
+    {{ reference | regex_replace_once: '\d+?\.\s', '' }}
+    {% if entry.doi %}
+      <a href="https://doi.org/{{ entry.doi }}">DOI:{{entry.doi}}</a>
+    {% endif %}
+    {% if entry.archiveprefix == 'arXiv'%}
+      <a href="https://arxiv.org/abs/{{ entry.eprint }}">arXiv:{{ entry.eprint }}</a>
+    {% endif %}
+    {% if entry.note %}
+      <span class="note">{{ entry.note }}</span>
+    {% endif %}
+  </p>
+  <div class="bibentry-right">
+    {% if link %}
+      <span class="note"><a href="{{link}}"><i class="fa-solid fa-file-pdf"></i></a></span>
+    {% else %}
+      <span class="note" style="display:inline-block; width:1.25em;"></span>
+    {% endif %}
+  </div>
+</div>
