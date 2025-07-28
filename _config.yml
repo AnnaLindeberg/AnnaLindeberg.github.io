@@ -13,7 +13,7 @@
 theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
 # remote_theme             : "mmistakes/minimal-mistakes@4.27.2"
-minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -118,11 +118,11 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Mathematician and computer scientist"
   location         : "Stockholm, Sweden"
-  email            :
+  email            : 
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+    - label: "anna.lindeberg&lt;at&gt;math.su.se"
+      icon: "fas fa-fw fa-at"
+      url: "mailto:anna.lindeberg@math.su.se"
     - label: "University homepage"
       icon: "fas fa-fw fa-link"
       url: "https://www.su.se/profiles/anli2726-1.513404"
@@ -350,3 +350,4 @@ scholar:
   sort_by:  'year'
   order:    'descending'
   style:    'vancouver'
+  bibliography_template: bib

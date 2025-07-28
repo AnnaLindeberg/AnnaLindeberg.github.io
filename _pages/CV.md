@@ -1,8 +1,4 @@
 ---
-layout: single
-author_profile: true
-sidebar:
-  nav: "pages"
 ---
 
 # Curriculum vitae
@@ -32,8 +28,9 @@ Algorithms and complexity and DA4006 Datastructures and algorithms). I
 present solutions to problems and grade written hand-ins, occasionally
 including code. In 2024, I additionally held four lectures covering
 topics on greedy algorithms, dynamic programming and graph theory.
+See the page [Teaching]({% link _pages/teaching.md %}) for more information.
 
-**2020--2023** TA as Bachelor's and Master's student\
+**2020--2023** Teaching Assistant as Bachelor's and Master's student\
 Alongside my studies, I was involved as a TA in multiple courses at
 Stockholm University. I have, for example, presented problem solutions,
 answered students' questions and corrected exams, labs and hand-ins.
@@ -117,5 +114,5 @@ activites
 
 **Languages** Swedish (mother tongue), English (CEFR level C2), German (CEFR level A1)
 
-**Computers** Well-versed in LaTeX and `Python`. Rudimentary knowledge of many
-programming languages, including `C`, `Haskell`, `SQL`, etc.
+**Computers** Well-versed in LaTeX and Python. Rudimentary knowledge of many
+programming languages, including C, Haskell, SQL, etc.
