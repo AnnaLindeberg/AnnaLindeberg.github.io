@@ -351,5 +351,6 @@ scholar:
   order:    'descending'
   style:    'vancouver'
   bibliography_template: bib
+  repository: 'assets/pdfs'
   # replace_strings: true
   # query: "@*"

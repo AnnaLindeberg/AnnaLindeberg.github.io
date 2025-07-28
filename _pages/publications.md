@@ -13,4 +13,4 @@
 
 ## Others
 
-{% bibliography --file other.bib %}
+{% bibliography --file other.bib --template otherbib%}
