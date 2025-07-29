@@ -1,0 +1,19 @@
+---
+---
+
+<h1> Publications</h1>
+
+<div id="publications-list">
+  <ol>
+    <li class="pub-section">Published in peer-reviewed journal</li>
+    {% bibliography --file published.bib -q @*[status!=submitted] %}
+  </ol>
+  <ol>
+    <li class="pub-section">Submitted</li>
+    {% bibliography --file published.bib -q @*[status!=accepted] %}
+  </ol>
+  <ol>
+    <li class="pub-section">Others</li>
+    {% bibliography --file other.bib --template otherbib %}
+  </ol>
+</div>
