@@ -1,4 +1,5 @@
 ---
+permalink: /cv/
 ---
 
 # Curriculum vitae

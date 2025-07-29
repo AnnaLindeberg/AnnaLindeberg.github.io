@@ -1,12 +1,12 @@
 pages:
   - title: "CV"
-    url: /_pages/CV/
+    url: /cv
   - title: "Publications"
-    url: /_pages/publications/
+    url: /publications
   - title: "Teaching"
-    url: /_pages/teaching/
-  - title: "Other things"
-    url: /_pages/other/
+    url: /teaching
+  # - title: "Other things"
+  #   url: /other
 
 main:
   - title: " "

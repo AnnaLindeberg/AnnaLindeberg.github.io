@@ -1,4 +1,5 @@
 ---
+permalink: /other/
 ---
 
 # Other things
