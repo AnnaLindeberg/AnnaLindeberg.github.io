@@ -115,7 +115,7 @@ analytics:
 # Site Author
 author:
   name             : "Anna Lindeberg"
-  avatar           : "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio-photo.png"
   bio              : "Mathematician and computer scientist"
   location         : "Stockholm, Sweden"
   email            : 
