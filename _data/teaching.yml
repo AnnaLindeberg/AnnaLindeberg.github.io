@@ -1,0 +1,41 @@
+- semester: "Spring 2025"
+  courses:
+    - DA7066
+    - DA4006
+- semester: "Fall 2024"
+  courses:
+    - DA4005
+- semester: "Spring 2024"
+  courses:
+    - DA4006
+- semester: "Spring 2023"
+  courses:
+    - MM1008
+- semester: "Fall 2022"
+  courses:
+    - MM2001 
+    - MM1008
+    - DA2005
+    - TATA31
+    - TATB01
+- semester: "Spring 2022"
+  courses:
+    - MM1008
+    - MM1003
+- semester: "Fall 2021"
+  courses:
+    - MM2001 
+    - MM2002
+- semester: "Summer 2021"
+  courses:
+    - DA2005
+    - MT3003
+- semester: "Spring 2021"
+  courses:
+    - MM2002
+    - MM1008
+    - DA2005
+- semester: "Fall 2020"
+  courses:
+    - MM2001 
+    - MM1008
