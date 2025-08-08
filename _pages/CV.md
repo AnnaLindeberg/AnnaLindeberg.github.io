@@ -43,6 +43,10 @@ answered questions -- rather similar to what I did as a TA at Stockholm
 University. In Linköping I was involved in an introductory mathematics
 course and a course in linear algebra, both given to first-year
 engineering students.
+<button class="collapsible">Open Collapsible</button>
+<div class="content">
+  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+</div>
 
 **2016--2018** Order Processor at ALNO Scandinavia, Stockholm\
 I was involved in various administrative tasks at this high-end kitchen
@@ -79,22 +83,10 @@ partial funding from the organizers (5000 CZD).
 
 ## Other presentations
 
- 
-**April 2025** Graph theory seminar at University Leipzig.\
-Title: *LCA-based simplifications of DAGs and networks*.
-
-**April 2025** Combinatorics seminar at KTH.\
-Title: *Encoding Graphs with Labeled Rooted Networks*.
-
-**December 2024** PhD seminar at Stockholm University.\
-Title: *Simplify DAGs via least common ancestor constraints*.
-
-**November 2024** CompMath seminar at Stockholm University.\
-Title: *Simplify DAGs via least common ancestor constraints*.
-
-**May 2022** Master's seminar at the Department of Mathematics, Stockholm
-University.\
-Title: *Construction of matchings in graph products*.
+{% for talk in site.data.talks %}
+**{{talk.when}}** {{talk.where}}\
+Title: *{{talk.title}}*
+{% endfor %}
 
 ## Personal information
 **Desk address** Room D1343, Albano hus 1\
@@ -106,7 +98,7 @@ Sweden
 
 **Born** 20th August 1997, Stockholm
 
-**Interests** Avid knitter, thouroughly enjoy hiking, biking and other nature-related
+**Interests** Avid knitter, thouroughly enjoy hiking and other nature-related
 activites
 
 
