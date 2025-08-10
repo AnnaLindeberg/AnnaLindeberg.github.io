@@ -43,10 +43,6 @@ answered questions -- rather similar to what I did as a TA at Stockholm
 University. In Linköping I was involved in an introductory mathematics
 course and a course in linear algebra, both given to first-year
 engineering students.
-<button class="collapsible">Open Collapsible</button>
-<div class="content">
-  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-</div>
 
 **2016--2018** Order Processor at ALNO Scandinavia, Stockholm\
 I was involved in various administrative tasks at this high-end kitchen

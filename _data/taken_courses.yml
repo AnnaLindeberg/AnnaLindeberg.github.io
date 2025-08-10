@@ -1,0 +1,61 @@
+bachelor:
+  - year: 2021
+    courses:
+      - MM5016
+      - DA6006
+      - DA3004
+  - year: 2020
+    courses:
+      - MM5010
+      - DA3012
+      - DA3015
+      - MM5024
+      - MM5023
+  - year: 2019
+    courses:
+      - MM5012
+      - DA3018
+      - MT3001
+      - DA3013
+      - DA3014
+      - MM5013
+  - year: 2018
+    courses:
+      - DA2001
+      - MM2001
+master:
+  - year: 2023
+    courses:
+      - MM7020
+      - MM7024
+      - MM9008
+  - year: 2022
+    courses:
+      - DD2464
+      - SF2741
+      - AK2040
+      - DA7065
+      - MM7025
+      - MM7042
+  - year: 2021
+    courses:
+      - MM7041
+      - DD2440
+      - SF2743
+      - SF2740
+other:
+  - year: 2021
+    courses:
+      - MM5021
+  - year: 2020
+    courses:
+      - MM5020
+      - MM5011
+      - 727G17
+  - year: 2019
+    courses:
+      - BL1011
+      - GG2008
+  - year: 2018
+    courses:
+      - MM1003

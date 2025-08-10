@@ -17,12 +17,14 @@ MM1008:
 MM2001:
   name: Mathematics I
   url: https://utbildning.su.se/english/education/course-catalogue/mm/mm2001
+  credits: 30
 MM2002:
   name: Mathematics for the Natural Sciences I
   url: https://sisu.it.su.se/pdf_creator/26968/60024
 MM1003:
   name: Introductory Course in Mathematics
   url: https://utbildning.su.se/english/education/course-catalogue/mm/mm1003
+  credits: 7.5
 MT3003:
   name: Introduction to data processing
   url: https://utbildning.su.se/english/education/course-catalogue/mt/mt3003
@@ -34,3 +36,141 @@ TATB01:
   name: Foundation Course in Mathematics
   url: https://courses.mai.liu.se/GU/TATB01/
   note: 2
+MM7020:
+  name: Mathematical Communication
+  credits: 7.5
+  note: 2
+MM7024:
+  name: Linear Algebra and Learning from Data
+  credits: 7.5
+  note: 2
+MM9008:
+  name: Mathematics, Degree Project
+  credits: 30
+  note: 2
+MM7042:
+  name: Commutative algebra and algebraic geometry
+  credits: 7.5
+  note: 2
+DA7065:
+  name: Computational Biology
+  credits: 7.5
+  note: 2
+MM7025:
+  name: Computer algebra
+  credits: 7.5
+  note: 2
+  url: https://utbildning.su.se/english/education/course-catalogue/mm/mm7025
+MM7041:
+  name: Topology
+  credits: 7.5
+  note: 2
+DD2464:
+  name: Bigger Advanced, Individual Course in Computer Science
+  credits: 9
+  note: 
+    - 2
+    - 3
+SF2741:
+  name: Enumerative Combinatorics
+  credits: 7.5
+  note: 
+    - 2
+    - 3
+AK2040:
+  name: Theory and Methodology of Science with Applications (Computational Science)
+  credits: 7.5
+  note: 
+    - 2
+    - 3
+SF2743:
+  name: Advanced Real Analysis I
+  credits: 7.5
+  note: 
+    - 2
+    - 3
+SF2740:
+  name: Graph Theory
+  credits: 7.5
+  note: 
+    - 2
+    - 3
+DD2440:
+  name: Advanced Algorithms
+  credits: 6
+  note: 
+    - 2
+    - 3
+MM5016:
+  name: Numerical Analysis I
+  credits: 7.5
+  url: https://utbildning.su.se/english/education/course-catalogue/mm/mm5016
+DA6006:
+  name: Computer Science, Degree Project
+  credits: 15
+DA3004:
+  name: Algorithms and Complexity
+  credits: 7.5
+MM5023:
+  name: Mathematics III - Combinatorics
+  credits: 7.5
+  url: https://utbildning.su.se/english/education/course-catalogue/mm/mm5023
+MM5024:
+  name: Mathematics III - Logic
+  credits: 7.5
+  url: https://utbildning.su.se/english/education/course-catalogue/mm/mm5024
+DA3012:
+  name: Programming Paradigms
+  credits: 7.5
+MM5010:
+  name: Mathematics II - Analysis, part A
+  credits: 7.5
+  url: https://utbildning.su.se/english/education/course-catalogue/mm/mm5010
+MM5013:
+  name: Mathematics II - Algebra and Combinatorics
+  credits: 7.5
+  url: https://utbildning.su.se/english/education/course-catalogue/mm/mm5013
+DA3015:
+  name: Software Engineering and Project Work
+  credits: 9
+MT3001:
+  name: Probability Theory I
+  credits: 7.5
+DA3014:
+  name: Database Technology
+  credits: 6
+DA3013:
+  name: Communication for Computer Scientists
+  credits: 7.5
+DA3018:
+  name: Computer Science for Mathematicians
+  credits: 7.5
+MM5012:
+  name: Mathematics II - Linear Algebra
+  credits: 7.5
+  url: https://utbildning.su.se/english/education/course-catalogue/mm/mm5012
+DA2001:
+  name: Computer Science I
+  credits: 15
+MM5021:
+  name: Mathematics III - Foundations of Analysis
+  credits: 7.5
+  url: https://utbildning.su.se/english/education/course-catalogue/mm/mm5021
+MM5011:
+  name: Mathematics II - Analysis, part B
+  credits: 7.5
+  url: https://utbildning.su.se/english/education/course-catalogue/mm/mm5011
+MM5020:
+  name: Mathematics III - Abstract algebra
+  credits: 7.5
+  url: https://utbildning.su.se/english/education/course-catalogue/mm/mm5020
+GG2008:
+  name: Earth I - Geology
+  credits: 15
+BL1011:
+  name: Garden Biology, Introductory Course
+  credits: 7.5
+727G17:
+  name: Geography 1, basic course
+  credits: 30
+  note: 1
