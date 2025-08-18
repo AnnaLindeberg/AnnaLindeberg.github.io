@@ -20,33 +20,46 @@ obtained 2021-08-11.
 **2013--2016** Upper Secondary School, Technical specialization, Designgymnasiet,
 Stockholm.
 
+If you happen to be interested in all courses I've taken, they can be found [here]({% link _pages/courses.md %}).
 
 ## Employment history
 
-**2024--** Teaching Assistant (TA) as PhD student\
-I am currently a TA with a coordinating role in two courses (DA4005
-Algorithms and complexity and DA4006 Datastructures and algorithms). I
-present solutions to problems and grade written hand-ins, occasionally
-including code. In 2024, I additionally held four lectures covering
-topics on greedy algorithms, dynamic programming and graph theory.
-See the page [Teaching]({% link _pages/teaching.md %}) for more information.
+**2024--** Teaching Assistant (TA) as PhD student
+<details>
+  <summary>Details</summary>
+    I am currently a TA with a coordinating role in two courses (DA4005
+    Algorithms and complexity and DA4006 Datastructures and algorithms). I
+    present solutions to problems and grade written hand-ins, occasionally
+    including code. In 2024, I additionally held four lectures covering
+    topics on greedy algorithms, dynamic programming and graph theory.
+</details>
 
-**2020--2023** Teaching Assistant as Bachelor's and Master's student\
-Alongside my studies, I was involved as a TA in multiple courses at
-Stockholm University. I have, for example, presented problem solutions,
-answered students' questions and corrected exams, labs and hand-ins.
+**2020--2023** Teaching Assistant as Bachelor's/Master's student
+<details>
+  <summary>Details</summary>
+    Alongside my studies, I was involved as a TA in multiple courses at
+    Stockholm University. I have, for example, presented problem solutions,
+    answered students' questions and corrected exams, labs and hand-ins.
+    See the page <a href="{% link _pages/teaching.md %}">Teaching</a> for more information.
+</details>
 
-**Fall 2022** Teaching Assistant at Linköping University\
-After moving to Linköping in Sweden, I additionally worked part-time at
-Linköping University. There I held short lessons, corrected exams and
-answered questions -- rather similar to what I did as a TA at Stockholm
-University. In Linköping I was involved in an introductory mathematics
-course and a course in linear algebra, both given to first-year
-engineering students.
+**Fall 2022** Teaching Assistant at Linköping University
+<details>
+  <summary>Details</summary>
+    After moving to Linköping in Sweden, I additionally worked part-time at
+    Linköping University. There I held short lessons, corrected exams and
+    answered questions -- rather similar to what I did as a TA at Stockholm
+    University. In Linköping I was involved in an introductory mathematics
+    course and a course in linear algebra, both given to first-year
+    engineering students.
+</details>
 
-**2016--2018** Order Processor at ALNO Scandinavia, Stockholm\
+**2016--2018** Order Processor at ALNO Scandinavia, Stockholm
+<details>
+  <summary>Details</summary>
 I was involved in various administrative tasks at this high-end kitchen
 retailer.
+</details>
 
 ## Awards and Grants
 

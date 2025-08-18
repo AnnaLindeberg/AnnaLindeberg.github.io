@@ -78,3 +78,19 @@
   position: absolute;
   left: -2.5em;
 }
+
+details {
+  border-radius: 4px;
+  padding: 0.5em;
+  margin: -2em 1em 0em 1em;
+}
+
+
+details[open] {
+  padding: 0.5em;
+}
+
+details[open] summary {
+  border-bottom: 1px solid #004c4c;
+  margin-bottom: 0.5em;
+}
