@@ -82,6 +82,8 @@ to announcement in Swedish).
 
 ## Participation in conferences etc.
 
+**September 2025** Presentation at the 10th Cracow Conference on Graph Theory (10CCGT).
+Title: *Construction of $k$-matchings in graph products*
  
 **February 2025** Presentation at the 40th TBI Winterseminar in Bled, Slovenia.
 Title: *LCA or no LCA: A short story about simplifying networks*.
@@ -117,4 +119,4 @@ activites
 **Languages** Swedish (mother tongue), English (CEFR level C2), German (CEFR level A1)
 
 **Computers** Well-versed in LaTeX and Python. Rudimentary knowledge of many
-programming languages, including C, Haskell, SQL, etc.
+programming languages, including Rust, Haskell, SQL, etc.
