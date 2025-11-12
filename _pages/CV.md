@@ -83,7 +83,7 @@ to announcement in Swedish).
 ## Participation in conferences etc.
 
 **September 2025** Presentation at the 10th Cracow Conference on Graph Theory (10CCGT).
-Title: *Construction of $k$-matchings in graph products*
+Title: *Construction of k-matchings in graph products*
  
 **February 2025** Presentation at the 40th TBI Winterseminar in Bled, Slovenia.
 Title: *LCA or no LCA: A short story about simplifying networks*.
