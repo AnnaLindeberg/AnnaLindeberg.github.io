@@ -77,7 +77,7 @@ thesis in Mathematics at Stockholm University
 ([[link]](https://www.su.se/matematiska-institutionen/nyheter/mittag-leffler-priset-l%C3%A4s%C3%A5ret-2023-24-1.770341)
 to announcement in Swedish).
 
-**May 2025** Recieved travel grant (8000 SEK) from The Essén scholarship
+**May 2024** Recieved travel grant (8000 SEK) from The Essén scholarship
 
 
 ## Participation in conferences etc.
