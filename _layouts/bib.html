@@ -1,7 +1,7 @@
 ---
 ---
 <p>
-  {{ reference | regex_replace_once: '\d+?\.\s', '' }}
+  {{ reference | regex_replace_once: '\d+?\.', '' }}
   {% if entry.doi %}
     <a href="https://doi.org/{{ entry.doi }}">DOI:{{entry.doi}}</a>
   {% endif %}
