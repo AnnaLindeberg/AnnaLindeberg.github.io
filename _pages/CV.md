@@ -82,6 +82,9 @@ to announcement in Swedish).
 
 ## Participation in conferences etc.
 
+**February 2026** Presentation at the 41st TBI Winterseminar in Bled, Slovenia.
+Title: *Networks from LCA constraints*.
+
 **September 2025** Presentation at the 10th Cracow Conference on Graph Theory (10CCGT).
 Title: *Construction of k-matchings in graph products*
  
