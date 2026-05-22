@@ -83,7 +83,8 @@ to announcement in Swedish).
 ## Participation in conferences etc.
 {% for conf in site.data.conferences %}
 **{{conf.when}}** {{conf.info}}
-{% if conf.title %}\ Title: *{{conf.title}}*{% endif %}
+{% if conf.title %}\
+Title: *{{conf.title}}*{% endif %}
 {% endfor %}
 
 ## Other presentations
