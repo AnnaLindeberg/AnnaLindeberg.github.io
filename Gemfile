@@ -7,4 +7,4 @@ gem 'jekyll-scholar', group: :jekyll_plugins
 gem 'jekyll-github-metadata', group: :jekyll_plugins
 gem 'jekyll-regex-replace', group: :jekyll_plugins
 gem "minimal-mistakes-jekyll"
-gem 'sassc', '~> 2.4' 
+gem 'sass-embedded', '~> 1.69.0'
