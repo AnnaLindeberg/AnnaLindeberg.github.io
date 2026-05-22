@@ -81,19 +81,10 @@ to announcement in Swedish).
 
 
 ## Participation in conferences etc.
-
-**February 2026** Presentation at the 41st TBI Winterseminar in Bled, Slovenia.
-Title: *Networks from LCA constraints*.
-
-**September 2025** Presentation at the 10th Cracow Conference on Graph Theory (10CCGT).
-Title: *Construction of k-matchings in graph products*
- 
-**February 2025** Presentation at the 40th TBI Winterseminar in Bled, Slovenia.
-Title: *LCA or no LCA: A short story about simplifying networks*.
-
-**July 2024** Participant at the Czech Summer School in Discrete Mathematics, with
-partial funding from the organizers (5000 CZD).
-
+{% for conf in site.data.conferences %}
+**{{conf.when}}** {{conf.info}}\
+{% if conf.title %}Title: *{{conf.title}}*{% endif %}
+{% endfor %}
 
 ## Other presentations
 
