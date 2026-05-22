@@ -10,6 +10,7 @@ In Sweden, there's a rather high requirement of courses taken during your time a
 
 | Term | Course | Credits  |  
 |------|--------|----------|
+| Spring 2026 | PhD Reading Course: Algorithmic Engineering | 7.5 ECTS |
 | Fall 2025 | Complexity theory (at KTH) | 7.5 ECTS|
 | Spring 2025 | Research ethics | 1.5 ECTS |
 | | Matroid Theory | 7.5 ECTS|
