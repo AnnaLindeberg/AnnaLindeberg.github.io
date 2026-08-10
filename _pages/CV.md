@@ -94,6 +94,10 @@ Title: *{{conf.title}}*{% endif %}
 Title: *{{talk.title}}*
 {% endfor %}
 
+## Miscellaneous
+- PhD representative for the hiring committee in computational mathematics, ongoing from 2025. As such, involved in recruitment of PhD students in 2025 and 2026.
+- Reviewer for Discrete Applied Mathematics and Annals of Combinatorics, 2026.
+
 ## Personal information
 **Desk address** Room D1343, Albano hus 1\
 Matematiska institutionen, Stockholm University\
