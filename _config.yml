@@ -347,8 +347,8 @@ defaults:
 
 # jekyll scholar
 scholar:
-  sort_by:  'year'
-  order:    'descending'
+  sort_by:  'year,month,name,title'
+  order:    'descending,descending,ascending,ascending'
   style:    'sage-vancouver'
   bibliography_template: bib
   repository: 'assets/pdfs'
