@@ -9,3 +9,4 @@ gem 'jekyll-regex-replace', group: :jekyll_plugins
 gem "minimal-mistakes-jekyll"
 gem 'sass-embedded', '~> 1.69.0'
 gem "bigdecimal", "~> 4.1"
+gem "rake"
