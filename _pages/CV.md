@@ -115,7 +115,7 @@ activites
 ## Other skills
 
 
-**Languages** Swedish (mother tongue), English (CEFR level C2), German (CEFR level A2)
+**Languages** Swedish (mother tongue), English (CEFR level C1), German (CEFR level A2)
 
 **Computers** Well-versed in LaTeX and Python. Rudimentary knowledge of many
 programming languages, including Rust, Haskell, SQL, etc.
