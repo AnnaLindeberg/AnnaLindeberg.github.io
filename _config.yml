@@ -349,7 +349,6 @@ defaults:
 scholar:
   sort_by:  'year,month,name,title'
   order:    'descending,descending,ascending,ascending'
-  style:    'sage-vancouver'
   bibliography_template: bib
   repository: 'assets/pdfs'
   # replace_strings: true
