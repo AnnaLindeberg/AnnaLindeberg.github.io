@@ -18,6 +18,12 @@ on:
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
+  # Weekly build (Mondays 06:00 UTC) to catch breakage from the outside world
+  # (runner images, Ruby builds, gem servers) before you need to publish something.
+  # A failure emails the person who last edited this cron line.
+  schedule:
+    - cron: "0 6 * * 1"
+
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
   contents: read
@@ -31,7 +37,8 @@ concurrency:
 jobs:
   # Build job
   build:
-    # Pinned: ubuntu-latest moved to 26.04, which has no prebuilt Ruby 3.4.1 in setup-ruby v1.327.0
+    # Deliberately pinned (not ubuntu-latest): the OS should only change when we choose.
+    # ubuntu-24.04 is supported until ~2029; GitHub announces deprecations months ahead.
     runs-on: ubuntu-24.04
     permissions:
       contents: read
@@ -40,9 +47,9 @@ jobs:
       - name: Checkout
         uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
       - name: Setup Ruby
-        uses: ruby/setup-ruby@14594264cd68ce8a2345dd349bc3d138a4ef85c8 # v1.327.0
+        uses: ruby/setup-ruby@b3aaceaef7e0ee231b499e7b5f49c03fc1d32199 # v1.338.0
         with:
-          ruby-version: .ruby-version
+          ruby-version: .ruby-version # "3.4" = newest 3.4.x patch release
           bundler-cache: true # runs 'bundle install' and caches installed gems automatically
           cache-version: 1 # Increment this number if you need to re-download cached gems
       - name: Setup Pages
