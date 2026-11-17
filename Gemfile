@@ -7,6 +7,6 @@ gem 'jekyll-scholar', group: :jekyll_plugins
 gem 'jekyll-github-metadata', group: :jekyll_plugins
 gem 'jekyll-regex-replace', group: :jekyll_plugins
 gem "minimal-mistakes-jekyll"
-gem 'sass-embedded', '~> 1.69.0'
+gem 'sass-embedded', '~> 1.108.2'
 gem "bigdecimal", "~> 4.1"
 gem "rake"
